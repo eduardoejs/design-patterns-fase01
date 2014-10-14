@@ -1,0 +1,16 @@
+{
+    "name" : "Fase 01 - Módulo Design Patterns",
+    "authors" : [
+        {
+            "name" : "Eduardo Silva",
+            "email" : "eduardo.ejs@hotmail.com"
+        }
+    ],
+    "mininum-stability" : "dev",
+    "autoload" : {
+        "psr-4" : {
+            "src\\EJS\\classes\\" : "src/EJS/classes/",
+            "src\\EJS\\interfaces\\" : "src/EJS/interfaces/"
+        }
+    }
+}
